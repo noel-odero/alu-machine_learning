@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-plt.style.use('fivethirtyeight')
+plt.xkcd()
 years = [2006 + x for x in range(16)]
 
 weights = [50, 78, 83, 84, 85, 87, 67, 80, 82, 79, 76, 58, 75, 78, 87, 77]
