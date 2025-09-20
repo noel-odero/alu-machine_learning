@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """__summary__
 This file contains the implementation to compute the inverse of a matrix.
