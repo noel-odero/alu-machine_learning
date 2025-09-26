@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """_summary_
 This file contains the implementation of poly_derivative

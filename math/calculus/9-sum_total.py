@@ -19,4 +19,3 @@ def summation_i_squared(n):
     #     return 1
 
     # return n**2 + summation_i_squared(n-1)
-    
